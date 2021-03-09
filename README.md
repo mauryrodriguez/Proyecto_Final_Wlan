@@ -17,7 +17,7 @@ realizara con el programa de Packet Tracer 8.0.
 
 :mailbox: :email:
 
-* Con la funcionalidad de CRUD ---> Create & Read
+* Con la funcionalidad conectar varios dospositivos los cuales seran manipulados mediante sensores y smart phone de manera totalmente remota.
 
 
 ## Observaciones:
